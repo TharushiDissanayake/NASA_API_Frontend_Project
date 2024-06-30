@@ -1,0 +1,32 @@
+[ 
+    {
+        "name": "Irregular Galaxy",
+        "Details": "Irregular galaxies are the most unusual of galaxies. They don't seem to fit into either the spiral or elliptical galaxy categories. They don't have nice spiral arms, but they do have dark patches of gas and dust.",
+        "image": "./irregular.jpeg"
+    },
+    {
+        "name": "Lenticular Galaxy",
+        "Details": "Lenticular galaxies are a kind of cross between spirals and ellipticals. They have the central bulge and disk common to spiral galaxies but no arms.",
+        "image": "./lenticular galaxy.jpeg"
+    },
+    {
+        "name": "Peculiar Galaxy",
+        "Details": "A peculiar galaxy is a galaxy of unusual size, shape, or composition. Between five and ten percent of known galaxies are categorized as peculiar.",
+        "image": "./peculier.jpeg"
+    },
+    {
+        "name": "Elliptical Galaxy",
+        "Details": "Elliptical galaxies have an even, ellipsoidal shape. They typically contain a much greater proportion of older stars than spiral galaxies do.",
+        "image": "./elliptical.jpeg"
+    },
+    {
+        "name": "Spiral Galaxy",
+        "Details": "A spiral galaxy typically has a rotating disc with spiral 'arms' that curve out from a dense central region.",
+        "image": "./spiral.jpeg"
+    },
+    {
+        "name": "Barred Spiral Galaxy",
+        "Details": "A barred spiral galaxy is a spiral galaxy with a central bar-shaped structure made of stars.",
+        "image": "./barred.jpeg"
+    }
+]
